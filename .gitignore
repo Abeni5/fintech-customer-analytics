@@ -193,3 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 fintech_env/
+notebook/data/

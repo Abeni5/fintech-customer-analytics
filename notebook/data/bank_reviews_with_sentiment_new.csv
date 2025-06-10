@@ -1,4 +1,7 @@
 review_id,review,rating,date,bank,source,sentiment,sentiment_label
+2148bb53-1ab6-4d95-aa65-4786ae48ee4b,v.good app,4,2025-06-09,Commercial Bank of Ethiopia,Google Play,0.0,Neutral
+02716b27-d785-403b-9171-44ae0eb5db90,very good app,1,2025-06-09,Commercial Bank of Ethiopia,Google Play,0.4927,Positive
+44b56ef7-c297-438a-94ac-f59f70b40594,Very amazing app indeed. I'm enjoying it,5,2025-06-08,Commercial Bank of Ethiopia,Google Play,0.8173,Positive
 ba2970d7-802b-44d5-9c91-e6bed733adad,Best,5,2025-06-08,Commercial Bank of Ethiopia,Google Play,0.6369,Positive
 3e1d37a0-a082-4cb0-912a-8efff072ed3f,20 years,5,2025-06-08,Commercial Bank of Ethiopia,Google Play,0.0,Neutral
 a7d1c799-ba53-4a0a-a8d6-c5400a009825,A great app. It's like carrying a bank in your pocket.,4,2025-06-07,Commercial Bank of Ethiopia,Google Play,0.765,Positive
@@ -396,9 +399,6 @@ e85a3c43-ff28-44dd-8aa5-9414ac1a6178,very good,5,2025-03-31,Commercial Bank of E
 1e1d4fb5-8c70-476d-b2ff-61c89287f9e0,The Best app😍😍😍,5,2025-03-31,Commercial Bank of Ethiopia,Google Play,0.6369,Positive
 7220306f-9af6-4084-bcf2-8ddfa328dc86,excellent app,5,2025-03-31,Commercial Bank of Ethiopia,Google Play,0.5719,Positive
 8c89fe6d-7d41-449f-8448-50847ff76c5f,easy to use and user friendly,5,2025-03-31,Commercial Bank of Ethiopia,Google Play,0.7269,Positive
-2b8f9113-48a0-4677-b2a8-84bd3bea1a6c,good,5,2025-03-31,Commercial Bank of Ethiopia,Google Play,0.4404,Positive
-51289b2b-340b-47a9-bc8f-6b95066a97e6,very nice,5,2025-03-31,Commercial Bank of Ethiopia,Google Play,0.4754,Positive
-8b6f3b5e-94b2-4b69-a31e-9ffa05a80222,አሪፍ ነው በተለይ የአሻራ ደህነቱ መረጋገጡ ተመችቶኛል,3,2025-03-31,Commercial Bank of Ethiopia,Google Play,0.0,Neutral
 937102c6-ae88-419c-994b-80e520faacb8,it's not working,3,2025-06-05,Bank of Abyssinia,Google Play,0.0,Neutral
 3559b91c-fad9-4032-bebe-cf99974b9628,"Hello, I’m facing a problem with the BOA Mobile app. Every time I enter my phone number and password, the app crashes and shows an error that says “BoaMobile closed because this app has a bug.” I tried updating, reinstalling, and clearing cache, but nothing worked. Please fix this bug in the next update. I really need access to my account. Thank you.",1,2025-06-03,Bank of Abyssinia,Google Play,-0.1884,Negative
 10e85f30-540d-4810-ba89-85a7e004480b,exceptional,5,2025-06-03,Bank of Abyssinia,Google Play,0.0,Neutral
@@ -799,6 +799,8 @@ b1ec9a7a-5962-45c7-ac3a-0043f8a96f9e,It is not working at all,1,2024-07-16,Bank 
 95a7177d-a323-4a17-98ad-9f94ea147686,The poorest mobile banking survice ever. Only error reports frequently,1,2024-07-16,Bank of Abyssinia,Google Play,-0.7351,Negative
 4a6a938a-e74a-4e00-81f8-76c8b093f4d3,Wow,5,2024-07-16,Bank of Abyssinia,Google Play,0.5859,Positive
 e40abcb7-e431-4333-92ad-ef90b6cb11cb,😞😞😞😞,1,2024-07-16,Bank of Abyssinia,Google Play,0.0,Neutral
+b69611f8-8016-417f-a3be-99ce2514dd09,this app is good for you guys,5,2025-06-09,Dashen Bank,Google Play,0.4404,Positive
+8cb388e3-6766-4f38-99d9-6f53198406dc,wow,5,2025-06-09,Dashen Bank,Google Play,0.5859,Positive
 d305d857-0fc0-4458-9ee7-5a742fe48c33,kalid,5,2025-06-08,Dashen Bank,Google Play,0.0,Neutral
 6ab16d21-d2c8-4235-9c48-ff713bfde731,I like this mobile banking app very much. Overall user interface and navigation is awesome. But it lacks instant response when someone deposit or withdraw money.,2,2025-06-07,Dashen Bank,Google Play,0.5106,Positive
 22818807-3368-446c-8a3b-d3ca2e07a2d8,love,3,2025-06-06,Dashen Bank,Google Play,0.6369,Positive
@@ -1197,5 +1199,3 @@ bf46b652-6f96-473c-b1a0-bf359c2bb73a,ጥሩ ነው,5,2025-01-21,Dashen Bank,Goog
 55ef171b-bb1b-4c01-9341-6a5a4f13aee1,Wow,5,2025-01-17,Dashen Bank,Google Play,0.5859,Positive
 c24e4faf-305a-47b2-bf62-94319d984e61,Dashen yichalal. Ewnetem one step a head,5,2025-01-17,Dashen Bank,Google Play,0.0,Neutral
 40cc8813-3573-4cc3-bbba-3cd722362717,It has a Good performance but need more upgrade for more performance like when we login account not be fast balance show other thing looking good. Carry on. Thanks so much for Greatest service,4,2025-01-17,Dashen Bank,Google Play,0.9662,Positive
-42006315-95d0-4ccb-9a5c-a7ac1053d977,"It is a very wonderful work that has saved its time. That is why it is ""Always one step ahead!""",5,2025-01-17,Dashen Bank,Google Play,0.7955,Positive
-b969925e-d6eb-4620-9bb2-6a7868cc4d57,“Life-changing!” I can’t imagine going back to traditional banking after using this app. It’s so convenient.,5,2025-01-17,Dashen Bank,Google Play,0.0,Neutral
